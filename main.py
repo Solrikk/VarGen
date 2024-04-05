@@ -1,7 +1,7 @@
 import csv
 
-input_file = 'alvero-dveri.csv'
-output_file = 'VAR-alvero-dveri.csv'
+input_file = 'Your_file_dveri.csv'
+output_file = 'VAR-Your_file_dveri.csv'
 
 delimiter = ';'
 variation_code_prefix = "V"
